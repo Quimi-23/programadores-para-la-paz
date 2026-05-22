@@ -1,0 +1,7 @@
+cmd
+Ls
+mkdir semana 2
+cd semana 2
+echo > preguntas-semana2.txt
+echo > comandos-terminal.txt
+echo > reflexion-semana2.txt
