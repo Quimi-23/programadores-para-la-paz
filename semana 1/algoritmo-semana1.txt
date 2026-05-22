@@ -1,0 +1,13 @@
+Pregunta 5 — Actividad práctica de algoritmia
+Escribe un algoritmo de mínimo 6 pasos para explicar:
+
+Cómo compartir información confiable en internet.
+
+Algoritmo: Cómo compartir información confiable en internet
+
+Buscar la información
+Revisar la fuente
+Confirmar la noticia
+Cruzar la información con al menos dos fuentes independientes y de reconocida credibilidad para detectar coincidencias o discrepancias
+Verificar fecha, contexto y sesgos
+Compartir únicamente si la validación es positiva, citando explícitamente la fuente original y añadiendo un mensaje que invite a otros usuarios a verificar antes de difundir
