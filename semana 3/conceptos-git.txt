@@ -1,0 +1,10 @@
+Repositorio
+Un repositorio en Git es el directorio que almacena todos los archivos de un proyecto junto con el historial completo de sus modificaciones y metadatos.
+
+
+Commit
+Un commit es una instantánea que guarda el estado actual de los archivos modificados en el historial del proyecto, acompañada de un mensaje descriptivo y un identificador único.
+
+
+Push
+El comando push transfiere los commits realizados en tu repositorio local hacia un repositorio remoto alojado en la nube o en un servidor.
