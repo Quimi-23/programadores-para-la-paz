@@ -1,0 +1,7 @@
+lo que sucede es que al entrar a cada ruta hay un mensaje distinto
+
+en http://localhost:3000 hay: Servidor activo
+
+en http://localhost:3000/saludo hay: Hola comunidad
+
+y en http://localhost:3000/mensaje/juan:Hola juan

@@ -1,0 +1,7 @@
+Qué hace esta ruta.
+
+R: ser una petición tipo post que se envia al servidor recibiendo este mensaje y confirmando que se recibió la informacion 
+
+Para qué podría servir en una aplicación comunitaria.
+
+R:En una aplicación para un barrio esta podría servir como forma para reportar los problemas de infraestructura del barrio
