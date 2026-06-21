@@ -1,0 +1,15 @@
+
+No exponer datos personales
+Oculta correos, teléfonos e identificaciones de los perfiles públicos de los ciudadanos. Así evitas que sufran de acoso, spam o suplantación de identidad en su propia comunidad.
+
+Proteger credenciales
+Encripta de forma segura todas las contraseñas en la base de datos y exige doble factor de autenticación (2FA). De esta manera impides que intrusos tomen el control de cuentas administrativas.
+
+Usar conexiones seguras
+Implementa de manera obligatoria certificados SSL/TLS para que toda la plataforma funcione bajo el protocolo HTTPS. Esto cifra la información que envían los usuarios, evitando que sea interceptada en redes públicas.
+
+Registrar accesos
+Guarda un historial automatizado (logs) de los inicios de sesión y las acciones críticas del sistema de forma limpia. Te permitirá rastrear cualquier comportamiento sospechoso o auditar fallos rápidamente.
+
+Limitar acceso a información sensible
+Aplica el principio de menor privilegio otorgando a cada rol (usuario, moderador o administrador) solo los accesos estrictamente necesarios. Si una cuenta se ve comprometida, el atacante no podrá acceder a todo el sistema.

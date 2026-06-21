@@ -1,0 +1,32 @@
+1. ¿Qué información muestra cada comando?
+
+* uname -a: Muestra información completa sobre el sistema operativo y el
+  núcleo (kernel) de la máquina. Incluye el nombre del sistema operativo
+  (ej. Linux), el nombre de host de la máquina, la versión y fecha de 
+  compilación del kernel, y la arquitectura del procesador (ej. x86_64).
+
+* whoami: Muestra el nombre exacto del usuario que tiene la sesión activa
+  en la terminal actual. Indica con qué identidad se están ejecutando 
+  los comandos en ese momento.
+
+
+2. ¿Por qué es útil conocer información del sistema al administrar un servidor?
+
+Conocer los detalles del sistema es fundamental por varias razones críticas:
+
+* Compatibilidad e Instalación: Antes de instalar cualquier software, 
+  servicio o base de datos, se debe verificar si el kernel del sistema 
+  y la arquitectura (32 o 64 bits) son compatibles para evitar fallos.
+
+* Seguridad y Parches: Permite saber si el sistema operativo está al día
+  o si la versión del kernel sufre de alguna vulnerabilidad conocida que 
+  requiera la aplicación urgente de un parche de seguridad.
+
+* Gestión de Permisos (Auditoría): Saber qué usuario eres (whoami) evita
+  cometer errores catastróficos. Por ejemplo, ayuda a confirmar si estás
+  operando como un usuario común o si tienes privilegios de administrador
+  (root) antes de modificar archivos críticos del sistema.
+
+* Resolución de Problemas (Troubleshooting): Cuando un servidor falla, 
+  lo primero que un administrador revisa es el entorno del sistema para 
+  entender el contexto del hardware y software donde ocurre el error.
